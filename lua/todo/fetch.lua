@@ -1,5 +1,5 @@
 -- local sqlite = require("ljsqlite3")
-local sql = require "ljsqlite3"
+local sql = require'sqlite'
 
 -- Creates an object for the module.
 local M = {}
